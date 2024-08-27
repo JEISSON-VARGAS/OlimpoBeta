@@ -12,5 +12,4 @@ public class PeopleDto {
     private String name;
     private String lastname;
     private String documentType;
-
 }
